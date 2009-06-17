@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Put something here later.
+Hackfodder-os was originally created with low level programmers in mind, it is an operating system (so far version 1.1 has one kernel module) that was designed to eliminate errors found when C programmers do not fully understand the compilers they use or the concept of compiling..
 
 
 = Details =
